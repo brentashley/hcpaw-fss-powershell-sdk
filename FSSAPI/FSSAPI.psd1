@@ -1,6 +1,6 @@
 @{
     ModuleToProcess = 'FSSAPI.psm1'
-    ModuleVersion = '0.923'
+    ModuleVersion = '1.0'
     GUID = '050208ed-d9fc-407d-81d5-6930386e9183'
 
     Author = 'Brent Ashley <brent@ashleyit.com>'
